@@ -176,18 +176,86 @@ export const education = [
 ];
 
 export const projects = [
- {
-    id: 0,
-    title: "",
-    date: "",
+{id: 1,
+    title: "DiscusswidAbhishek",
+    
     description:
-      "",
+      "This is a forum website where you can Discuss your programming related queries on that ",
     image:
-      "",
-    tags: [],
-    category: "",
+      "https://i.ibb.co/89mwgJ6/IMG-2704.jpg",
+    tags: [
+      "PHP",
+      "MYSQL",
+      "HTML",
+      "CSS",
+      "BOOTSRAP"
+    ],
+    category: "website",
+    github: "https://github.com/Cereton32/forum-website-using-php-mysql",
+    
+  },
+  {id: 1,
+    title: "Blog website",
+    
+    description:
+      "This is a  BLoG website where you can upload your blog and even can ready any blog listed there",
+      image:
+      "https://i.ibb.co/0c2bB72/IMG-2705.jpg",
+    tags: [
+      "Appwrrite",
+      "Reactjs",
+      "HTML",
+      "CSS",
+      "BOOTSRAP"
+    ],
+    category: "website",
+    github: "https://github.com/Cereton32/Blog-website-ReactJs-AppWrite",
+    
+  },
+  {id: 1,
+    title: "Doc_finder",
+    
+    description:
+      "This is a A doctor finder app where you can find the doctor and get contact with him even doc can get in touch wid you ",
+      image:
+      "https://i.ibb.co/SXspsGH/Screenshot-2024-05-10-at-12-27-25-PM.png",
+    tags: [
+      "Appwrrite",
+     "flutter"
+    ],
+    category: "WEBSITE",
+    github: "https://github.com/Cereton32/Doctor_Finder-frontedn-ui-usingFlutter",
+    
+  },
+  {id: 1,
+    title: "CHAT_BOX",
+    
+    description:
+      "This is under working app,This app will have the functionality of Creating a chat room where you can have chats talks ",
+      image:
+      "https://i.ibb.co/SXspsGH/Screenshot-2024-05-10-at-12-27-25-PM.png",
+    tags: [
+      "Appwrrite",
+     "flutter"
+    ],
+    category: "WEBSITE",
     github: "",
-    webapp: "",
+    
+  },
+  {id: 1,
+    title: "Portfolio",
+    
+    description:
+      "This is portfolio website of my friend which is created using html css javascript ",
+      image:
+      "https://i.ibb.co/RzgFDvM/Screenshot-2024-05-10-at-12-43-23-PM.png",
+    tags: [
+     "HTML",
+     "JAVASCRIPT",
+     "CSS"
+    ],
+    category: "WEBSITE",
+    github: "https://anjali-interior-designer.netlify.app/",
     
   },
   
