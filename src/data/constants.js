@@ -61,6 +61,11 @@ export const skills = [
         name: "Node Js",
         image: "https://nodejs.org/static/images/logo.svg",
       },
+        {
+        name: "PHP",
+        image:
+          "https://www.freepnglogos.com/uploads/php-logo-png/php-logo-png-transparent-svg-vector-bie-supply-1.png",
+      },
       {
         name: "Express Js",
         image:
