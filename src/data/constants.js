@@ -181,6 +181,54 @@ export const education = [
 ];
 
 export const projects = [
+   {id: 1,
+    title: "Portfolio-App",
+    
+    description:
+      "This is portfolio App about me and my projects ",
+      image:
+      "https://i.ibb.co/QYXVTFr/Screenshot-2024-05-25-at-3-17-41-PM.png",
+    tags: [
+     "Flutter",
+     
+    ],
+    category: "App",
+    github: "https://github.com/Cereton32/portfolio-app-flutter",
+    
+  },
+   {id: 1,
+    title: "Job Desc-PdfMaker",
+    
+    description:
+      "This is Pdf creater app where you can create pdf of job description and save it to the device ",
+      image:
+      "https://i.ibb.co/mH6RQyP/Screenshot-2024-05-25-at-3-24-15-PM.png",
+    tags: [
+     "Flutter",
+     
+    ],
+    category: "App",
+    github: "https://github.com/Cereton32/Job-requirement-pdf-creater-using-flutter",
+    
+  },
+  {id: 1,
+    title: "Blog_website",
+    
+    description:
+      "This is a blog website you can post your blog and also read others blog ",
+      image:
+      "https://i.ibb.co/MCQpgJ1/Screenshot-2024-05-25-at-3-37-03-PM.png",
+    tags: [
+     "Nodejs",
+     "Mongodb",
+      "Express-js",
+     
+    ],
+    category: "Web",
+    github: "https://github.com/Cereton32/Blog-website-using_expressjs-mongodb",
+    
+  },
+
 {id: 1,
     title: "DiscusswidAbhishek",
     
