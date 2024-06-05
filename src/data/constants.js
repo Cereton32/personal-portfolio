@@ -9,7 +9,7 @@ export const Bio = {
     "Hey there! I'm a third-year Computer Engineering student at Poornima College. I'm passionate about technology and always eager to learn new things. You can think of me as your go-to guy for anything related to coding, software development, or computer engineering in general. Whether it's tackling tough programming problems or discussing the latest tech trends, I'm always up for it. Let's code our way to success together!",
   github: "https://github.com/Cereton32",
   resume:
-  "https://drive.google.com/file/d/1BFl5_7WA7TzSflKh8K1iS_o09P7EQVVc/view?usp=drivesdk",
+  "https://drive.google.com/file/d/1zjxY-XcU54S5tKrHN_Zva6r7sXWDPdEJ/view?usp=share_link",
   linkedin: "https://www.linkedin.com/in/abhishek-kumar-882877229/",
   twitter: "",
   insta: "https://www.instagram.com/_cereton_/",
